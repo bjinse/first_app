@@ -1,0 +1,2 @@
+rvm use ruby-2.0.0-p451
+rmv gemset use railstutorial_rails_4_0
